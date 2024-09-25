@@ -2,11 +2,12 @@
 
 ## Introduction
 
-We are training a Machine Learning model to classify and predict the driving license type held by different drivers in Dubai. By using Machine Learning's classification type algorithm we will be predicting License Type that driver hold.
+This project aims to classify the license type of the drivers located in Dubai. 
 
 ## Dataset
 
-We have Data from Driver's population census in Dubai. We have tabular data with overall 5 columns in which 1 column contain content in Arabic linguistics and rest of the columns are numeric and object types.
+We have Data from Driver's population census in Dubai. The dataset contains overall 5 columns of which 1 column contain content in Arabic linguistics and the rest are numeric and object types. The dataset is provided in the repository.
+
 ### Dataset Statistics:
 
 Here is sample statistics of the data.
